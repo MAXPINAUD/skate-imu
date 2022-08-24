@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "skate-imu-lib")(type "KiCad")(uri "/home/max/Documents/git/kicad-library/skate-imu-lib.kicad_sym")(options "")(descr ""))
+)
